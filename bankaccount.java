@@ -13,7 +13,7 @@ public class BankAccount
 
 	this.currentBalance = 0.00;			// Initial value for the current Balance
 	this.accountNumber = "0192837363";			// Account Number as a string
-	this.customerName = "Robert Jones";		// Customer name
+	this.customerName = "Osmel Contreras";		// Customer name
 	this.customerAddress = "128 James St Mont, KY 07043";		// Customer address (Not real)
 
 	}
